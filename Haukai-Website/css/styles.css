@@ -107,3 +107,25 @@ header a:hover{
 #resturaunt-pic .container img {
     max-width: 80%;
 }
+
+#booking-form .container iframe{
+    max-width: 100%
+}
+
+#resturaunt-location .container iframe{
+    max-width: 100%
+}
+
+#resturaunt-hours .container iframe{
+    max-width: 100%
+}
+
+/* footer */
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: #2427b1;
+    text-align: center;
+}
