@@ -14,4 +14,4 @@
 
 # content delivery networks can also speed up the response time of the site. a content delivery network is made when multiple servers will be used in different locations to distribute the information to the users dependant of where the user is accessing the site from. This allows for users all around the world to access the site from the closest possible location, and will help users have an even experience no matter where they are based in the world.
 
-<a href="about.html">Website</a>
+<a href="index.html">Website</a>
