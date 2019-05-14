@@ -2,7 +2,19 @@
 
 # The website has changed significantly from my original wireframe as I aim to fulfil the assessment proposal
 
-# I will use alt text for every image of visual representation for use with screen readers
+# ACCESSABILITY STANDARDS
+
+# My website will follow the WCAG principles, it will be percievable, operable, understandable and robust
+
+# my site will stick to hierarchical structure, meaning it will use headings, paragraphs, divs etc. to organise the page, and will be surrounded by a header, footer and in a body section to make sure it is easily accessable
+
+# I will use plain language to make my website accessable
+
+# I will use alt text for every image or visual representation for use with screen readers
+
+# my css will not change the layout of the site too much as i do not want it to look/behave too differently to the original html
+
+#RESPONSIVE DESIGN
 
 # I will Use Media Queries to give accessability to all types of devices with any sized screen
 
@@ -11,6 +23,8 @@
 # for the image of the resturaunt on the home page, I used max-width to allow for the image to resize and not cut off on smaller sized screens. I also did this with the form on the reservations page, the map on the contact page and the calander on the menu page
 
 # for the header of the site, no extra work was needed to make it mobile friendly as when resizing it from desktop, to tablet, to mobile it maintained its functionality, and did not look any worse.
+
+#HTTP CACHING & CONTENT DELIVERY NETWORKS DISCUSSION
 
 # HTTP caching can be used to increase the response times of our site. It occurs when a browser stores local copies of the web resources for faster retrieval the next time the resource is required. This will increase response times as the browser will not need to retrieve the original resource each time and the locally stored cache resource will be must faster to retrieve as it is stored locally. When a resource is fully cached, the browser will choose to not even contact the server, simply use the cached copy. An example of this is the CSS of a website being accessed. the browser will download a copy of the css file and store it and instead of having to access it uniquely each time it will just access the downloaded file instantly.
 
